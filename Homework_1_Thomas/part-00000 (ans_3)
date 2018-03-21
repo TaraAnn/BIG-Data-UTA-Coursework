@@ -1,0 +1,50 @@
+a-chuan hsueh	{'following': 1, 'autonomous': 2, 'vehicle': 4, 'road': 5, 'robotic': 3}
+a. a. aaby	{'realtime': 5, 'specification': 2, 'interval': 7, 'systems': 3, 'logic': 1, 'temporal': 6}
+a. a. amin	{'ddnps': 6, 'efficient': 2, 'memories': 1, 'bist': 4, 'osqrtn': 3, 'faults': 7, 'dualport': 8, 'algorithms': 5}
+a. a. ball	{'hermite': 1, 'nsided': 4, 'surface': 3, 'patch': 2, 'design': 7, 'boundary': 5, 'data': 6}
+a. a. dorodnicyn	{'partial': 3, 'methods': 4, 'type': 7, 'differential': 2, 'solution': 1, 'mixed': 6, 'equations': 5}
+a. a. faustini	{'real': 6, 'language': 4, 'specification': 5, 'declarative': 3, 'systems': 1, 'time': 2}
+a. a. gorbunov	{'unstructured': 8, 'grids': 9, 'parallelization': 2, 'distributedmemory': 10, 'system': 1, '2d': 3, 'conduction': 5, 'heat': 4, 'computer': 11, 'mp3': 12, 'computation': 7, 'problem': 6}
+a. a. grau	{'intermediate': 2, 'dynamic': 5, 'language': 3, 'semantics': 1, 'define': 4}
+a. a. kamal	{'errors': 7, 'analysis': 5, 'compensation': 6, 'computer': 1, 'highspeed': 3, 'electronic': 2, 'analog': 4}
+a. a. kaposi	{'control': 3, 'programming': 7, 'methodology': 5, 'complexity': 2, 'design': 6, 'logicbased': 4, 'prolog': 8}
+a. a. letichervsky	{'equivalence': 1, 'optimization': 3, 'programs': 2}
+a. a. m. kuijk	{'objectlevel': 5, 'frame': 1, 'system': 2, 'controller': 4, 'display': 6, 'store': 3}
+a. a. morosov	{'system': 4, 'simulation': 3, 'chess': 1, 'chernobyl': 2}
+a. a. muhieddine	{'imd': 4, 'prediction': 3, 'filters': 6, 'active': 1, 'hd': 5, 'techniques': 2}
+a. a. sulimov	{'linear': 6, 'problemoriented': 2, 'algebra': 5, 'programs': 4, 'system': 1, 'application': 7, 'verification': 3}
+a. abichou	{'control': 3, 'task': 6, 'space': 1, 'robot': 5, 'tracking': 2, 'parallel': 4}
+a. abur	{'power': 3, 'radical': 2, 'switch': 7, 'systems': 5, 'distribution': 4, 'estimation': 6, 'statuses': 1}
+a. adalier	{'network': 1, 'photonic': 5, 'layouts': 7, 'multistage': 3, 'suitable': 6, 'switching': 4, 'interconnection': 2}
+a. aggarwal	{'computations': 3, 'graph': 2, 'adaptive': 1, 'machine': 5, 'connection': 4}
+a. aiello	{'mathematical': 2, 'study': 1, 'systems': 3, 'methods': 5, 'neural': 4}
+a. aissaoui	{'spectral': 8, 'heart': 1, 'computing': 2, 'variability': 10, 'analysis': 7, 'rate': 11, 'program': 3, 'hrvuab': 5, 'using': 9, 'readytouse': 4, 'techniques': 6}
+a. ait hssain	{'relationships': 3, 'information': 6, 'system': 5, 'dependency': 2, 'production': 4, 'design': 7, 'composition': 1}
+a. al-khudair	{'environment': 1, 'concurrent': 4, 'engineering': 5, 'design': 6, 'objectoriented': 2, 'versioning': 3}
+a. alapide	{'control': 6, 'applying': 5, 'raise': 3, 'developing': 2, 'air': 1, 'application': 8, 'traffic': 7, 'teamworkada': 4}
+a. alheraish	{'novel': 1, 'transmission': 4, 'atm': 3, 'system': 2, 'vbr': 6, 'methodology': 8, 'video': 5, 'robust': 7}
+a. almeida	{'based': 3, 'algorithm': 6, 'space': 1, 'generalization': 4, 'approximation': 2, 'stochastic': 5, 'lem3': 7}
+a. alteschaeffl	{'civil': 1, 'applications': 3, 'engineering': 2, 'potential': 6, 'sets': 5, 'fuzzy': 4}
+a. altibelli	{'generator': 7, 'modelling': 6, 'program': 2, 'build': 1, 'biological': 4, 'data': 3, 'experimental': 5}
+a. alwan	{'qr': 14, 'algorithm': 9, 'precision': 11, 'fast': 13, 'lattice': 8, 'decomposition': 15, 'analysis': 12, 'qrdrls': 7, 'infinite': 10, 'finite': 3, 'rls': 1}
+a. anagnostakis	{'information': 1, 'tool': 6, 'citation': 3, 'administration': 4, 'citizen': 2, 'smart': 5}
+a. anderson	{'mining': 2, 'author': 5, 'content': 4, 'forensics': 1, 'identification': 6, 'email': 3}
+a. andritsou	{'development': 8, 'multiple': 5, 'telecommunication': 9, 'embedded': 1, 'codesign': 10, 'formalisms': 6, 'hardware': 2, 'application': 7, 'systems': 3, 'using': 4, 'software': 11}
+a. annoni	{'subset': 7, 'selection': 6, 'image': 3, 'feature': 1, 'analysis': 2, 'costbased': 4, 'interactive': 5}
+a. anzalone	{'drippers': 2, 'plastic': 3, 'detection': 6, 'visual': 1, 'defects': 5, 'moulded': 4}
+a. ardeshir goshtasby	{'constraint': 2, 'multimodal': 6, 'brain': 5, 'registration': 7, 'images': 4, 'using': 3, 'rigidity': 1}
+a. arndt	{'management': 2, 'based': 3, 'multimedia': 8, 'visual': 7, 'editor': 6, 'document': 1, 'taoxml': 5, 'paradigm': 4}
+a. arokiasamy	{'state': 3, 'art': 2, 'routing': 1, 'internet': 4}
+a. aszodi	{'connection': 3, 'proteins': 1, 'topology': 2}
+a. atutxa	{'extraccin': 8, 'vasca': 9, 'subcategorizacin': 3, 'verbal': 2, 'informacin': 5, 'de': 11, 'partir': 1, 'sobre': 4, 'corpus': 10, 'masiva': 7}
+a. augusto de sousa	{'algorithm': 2, 'implementation': 4, 'scalable': 3, 'raytracing': 1, 'increasing': 6, 'realism': 7, 'interactive': 5}
+a. b. finger	{'generation': 5, 'grammars': 4, 'plan': 1, 'test': 6, 'using': 2, 'formal': 3}
+a. b. fortes	{'cycle': 5, 'shrinking': 4, 'generalized': 1, 'loop': 2, 'transformations': 3}
+a. b. hassan	{'algorithm': 5, 'stations': 1, 'inspection': 2, 'allocation': 3, 'genetic': 6, 'approach': 4}
+a. b. haycock	{'large': 5, 'computing': 4, 'personal': 1, 'facility': 3, 'preparation': 2, 'using': 6, 'bibliographies': 7}
+a. b. hoadley	{'case': 3, 'given': 6, 'study': 2, 'budget': 4, 'costs': 7, 'minimizing': 1, 'fixed': 5, 'quality': 8}
+a. b. martínez	{'mixed': 1, 'traffic': 3, 'scenes': 4, 'reality': 2}
+a. b. moniz	{'implementation': 2, 'brownfield': 6, 'site': 5, 'environment': 7, 'methodology': 3, 'complex': 4, 'manufacturing': 1}
+a. b. németh	{'projection': 5, 'characterization': 1, 'positive': 3, 'metric': 6, 'lattice': 7, 'vector': 8, 'cone': 2, 'onto': 4, 'hilbert': 9}
+a. b. rad	{'use': 2, 'effective': 15, 'algorithm': 12, 'minimumallelereservekeeper': 16, 'qualitative': 5, 'system': 4, 'fast': 9, 'mark': 10, 'genetic': 13, 'identification': 3, 'mutation': 8, 'ga': 11, 'online': 6, 'algorithms': 7, 'scheme': 14}
+a. b. rozenblit	{'chemical': 4, 'oriented': 7, 'relationship': 2, 'languages': 1, 'structureactivity': 3, 'representation': 6, 'structure': 5}
